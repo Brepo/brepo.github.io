@@ -1222,12 +1222,12 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../images/banner.jpg");
-		background-position: top left,						center center;
+		background-image: url("images/overlay.png"), url("../images/demoday.jpg");
+		background-position: top left,						center 80%;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 6em 0 16em 0;
 		text-align: center;
 	}
 
@@ -1242,7 +1242,7 @@
 		#banner h2 {
 			font-size: 3.5em;
 			line-height: 1em;
-			margin: 0 0 0.5em 0;
+			margin: 2em 0 0.5em 0;
 			padding: 0;
 		}
 
