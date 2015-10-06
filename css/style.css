@@ -1222,7 +1222,7 @@
 		background-attachment: scroll,							fixed;
 		background-color: #666;
 		background-image: url("../images/demoday.jpg");
-		background-position: top left,						center 80%;
+		background-position: center 60%,						center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
